@@ -1,0 +1,34 @@
+{
+    "Ekstrovert-Introvert": [
+      { "pernyataan": "Saya merasa lebih energik dan bersemangat ketika berada di keramaian." },
+      { "pernyataan": "Saya lebih suka menghabiskan waktu sendiri di rumah daripada menghadiri acara sosial." },
+      { "pernyataan": "Saya merasa lebih mudah beradaptasi dalam situasi sosial baru dan bertemu orang baru." },
+      { "pernyataan": "Saya merasa nyaman berbicara dengan orang asing dan memperkenalkan diri dalam situasi baru." },
+      { "pernyataan": "Saya lebih suka berpikir dan merencanakan sesuatu sendirian sebelum berbicara dengan orang lain." }
+    ],
+
+    "Sensing-Intuition": [
+      { "pernyataan": "Saya lebih percaya pada informasi konkret yang bisa saya lihat dan rasakan langsung." },
+      { "pernyataan": "Saya sering memikirkan kemungkinan dan ide-ide besar daripada fokus pada kenyataan saat ini." },
+      { "pernyataan": "Saya lebih suka mengikuti instruksi dan prosedur yang sudah terbukti berhasil." },
+      { "pernyataan": "Saya lebih tertarik pada makna tersembunyi dan pola di balik suatu peristiwa." },
+      { "pernyataan": "Saya merasa lebih nyaman dengan fakta dan detail daripada teori dan spekulasi." }
+    ],
+
+    "Thinking-Feeling": [
+      { "pernyataan": "Saya lebih memilih membuat keputusan berdasarkan logika dan analisis daripada mempertimbangkan perasaan orang lain." },
+      { "pernyataan": "Saya merasa lebih nyaman menyampaikan kebenaran meskipun itu bisa menyakitkan perasaan orang lain." },
+      { "pernyataan": "Saya sering mempertimbangkan dampak emosional keputusan saya terhadap orang lain sebelum mengambil tindakan." },
+      { "pernyataan": "Dalam bekerja, saya lebih menghargai keadilan dan objektivitas daripada keharmonisan dan perasaan." },
+      { "pernyataan": "Saya cenderung membuat keputusan dengan hati daripada dengan kepala." }
+    ],
+
+    "Judging-Perceiving": [
+      { "pernyataan": "Saya merasa lebih tenang ketika semua hal direncanakan dan terjadwal dengan rapi." },
+      { "pernyataan": "Saya sering membiarkan rencana berkembang secara alami daripada menetapkan keputusan sejak awal." },
+      { "pernyataan": "Saya cenderung menyelesaikan tugas jauh sebelum batas waktu yang ditentukan." },
+      { "pernyataan": "Saya lebih nyaman beradaptasi dengan perubahan daripada mengikuti jadwal tetap." },
+      { "pernyataan": "Saya lebih suka keputusan yang final daripada menunda-nunda dan mengeksplorasi kemungkinan lain." }
+    ]
+  }
+  
